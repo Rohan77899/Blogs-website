@@ -1,2 +1,5 @@
 # Blogs-website
-The idea of this project is about read the different types blogs .
+The idea of this project is about creating the frontend of a blog website where user can read different type of blogs .
+
+#tools used
+HTML, CSS 
